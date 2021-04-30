@@ -1,0 +1,6 @@
+name: RandomTeleport
+version: 1.0-SNAPSHOT
+main: me.burzakrual.rtp.Plugin
+api-version: 1.16
+authors: [ BurzaKrual ]
+description: RTP PLUGIN
